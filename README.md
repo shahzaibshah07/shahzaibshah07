@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there! 👋 I'm Shahzaib Shah
+🚀 About Me
+Welcome to my GitHub profile! I'm a passionate Flutter Developer who loves creating beautiful and functional mobile applications. I enjoy building user-friendly interfaces and exploring the latest technologies in mobile app development.
+💻 Tech Stack
 
-<!--
-**shahzaibshah07/shahzaibshah07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile Development: Flutter, Dart
+UI/UX: Flutter Widgets , Custom Widgets
+State Management: GetX , Provider , Bloc , RiverPod
+Programming Languages: Dart, Java , Flutter , Kotlin , React.
+Tools & Technologies:
+Flutter SDK
+Form validation
+Navigation systems
+Custom UI components
 
-Here are some ideas to get you started:
+🎯 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Mobile App Development with Flutter
+🎨 Custom UI/UX Design implementation
+⚡ State Management
+🔐 Authentication Systems 
+🌐 API Integration and data handling
+🔥 Firebase services implementation
+🔔 Push Notifications setup and management
