@@ -1,13 +1,17 @@
 Hi there! 👋 I'm Syed Shahzaib Basir.
 Software Engineer Mobile Application Dev.
+
 🚀 About Me
 Welcome to my GitHub profile!
 I'm a passionate Flutter Developer who loves creating beautiful and functional mobile applications. I enjoy building user-friendly interfaces and exploring the latest technologies in mobile app development.
 
 💻 Tech Stack
-Mobile Development: Flutter, Dart
-UI/UX: Flutter Widgets , Custom Widgets
-State Management: GetX , Provider , Bloc , RiverPod
+Mobile Development: Flutter, Dart.
+
+UI/UX: Flutter Widgets , Custom Widgets.
+
+State Management: GetX , Provider , Bloc , RiverPod.
+
 Programming Languages: Dart, Java , Flutter , Kotlin , React.
 
 Tools & Technologies:
